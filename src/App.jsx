@@ -288,7 +288,7 @@ export default function BonifaceResume() {
           </motion.div>
         </section>
 
-        <footer className="mt-8 text-sm text-gray-500 dark:text-gray-400">© {new Date().getFullYear()} Boniface Alexander — built with ❤️</footer>
+        <footer className="mt-8 text-sm text-gray-500 dark:text-gray-400">© {new Date().getFullYear()} Boniface Alexander</footer>
       </main>
     </div>
   );
