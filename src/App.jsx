@@ -190,9 +190,9 @@ export default function BonifaceResume() {
                 />
 
                 <ProjectCard
-                  title="llm-cost-profiler"
+                  title="llm-cost-profiler(Python package)"
                   tags={["Observability", "JSONL"]}
-                  desc="Profiler to track tokens, latency and estimated costs for LLM calls — lightweight & production-friendly."
+                  desc="Profiler to track tokens, latency and estimated costs for LLM calls — lightweight & production-friendly. Its a published package in pypi"
                   repo="https://github.com/BonifaceAlexander/llm-cost-profiler"
                 />
 
